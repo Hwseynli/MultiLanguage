@@ -1,0 +1,24 @@
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/bin/Debug/net8.0/MultiLanguage.Library.deps.json
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/bin/Debug/net8.0/MultiLanguage.Library.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/bin/Debug/net8.0/MultiLanguage.Library.pdb
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.csproj.AssemblyReference.cache
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.AssemblyInfoInputs.cache
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.AssemblyInfo.cs
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.csproj.CoreCompileInputs.cache
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/obj/Debug/net8.0/refint/MultiLanguage.Library.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.pdb
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/obj/Debug/net8.0/ref/MultiLanguage.Library.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/bin/Debug/net8.0/MultiLanguage.Library.deps.json
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/bin/Debug/net8.0/MultiLanguage.Library.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/bin/Debug/net8.0/MultiLanguage.Library.pdb
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.csproj.AssemblyReference.cache
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.AssemblyInfoInputs.cache
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.AssemblyInfo.cs
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.csproj.CoreCompileInputs.cache
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/obj/Debug/net8.0/refint/MultiLanguage.Library.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/obj/Debug/net8.0/MultiLanguage.Library.pdb
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Library/obj/Debug/net8.0/ref/MultiLanguage.Library.dll

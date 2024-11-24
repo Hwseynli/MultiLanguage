@@ -1,0 +1,7 @@
+﻿@MultiLanguage.Api_HostAddress = http://localhost:5230
+
+GET {{MultiLanguage.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C4437EA2-C91F-4B67-AEF1-DEF3E323A624}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MultiLanguage.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiLanguage.Library/JsonStringLocalizer.cs">
+    <Files>
+      <File FileName="MultiLanguage.Library/JsonStringLocalizer.cs" Line="83" Column="1" />
+      <File FileName="MultiLanguage.Library/JsonStringLocalizerFactory.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiLanguage" expanded="True">
+            <Node name="MultiLanguage.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="MultiLanguage.Library" expanded="True">
+              <Node name="Dtos" expanded="True" />
+              <Node name="JsonStringLocalizer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/JsonStringLocalizer.cs" relfile="MultiLanguage.Library/JsonStringLocalizer.cs" line="66" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

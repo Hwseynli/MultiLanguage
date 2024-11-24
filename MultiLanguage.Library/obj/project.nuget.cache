@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LiuzGLnW6FIKuz0rsYXM6K4ww7L4EtCwMCeigsO271l4ZN4Kd2DPDo7zkgEWvpqUOP/dhUdlsCWaceKBhL3XCA==",
+  "success": true,
+  "projectFilePath": "/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Library/MultiLanguage.Library.csproj",
+  "expectedPackageFiles": [
+    "/Users/zeyneb/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/zeyneb/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/zeyneb/.nuget/packages/microsoft.extensions.localization/8.0.11/microsoft.extensions.localization.8.0.11.nupkg.sha512",
+    "/Users/zeyneb/.nuget/packages/microsoft.extensions.localization.abstractions/8.0.11/microsoft.extensions.localization.abstractions.8.0.11.nupkg.sha512",
+    "/Users/zeyneb/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/zeyneb/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/zeyneb/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/zeyneb/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

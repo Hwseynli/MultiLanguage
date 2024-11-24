@@ -1,0 +1,80 @@
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/appsettings.Development.json
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/appsettings.json
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api.deps.json
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api.runtimeconfig.json
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api.pdb
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Library.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Library.pdb
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.csproj.AssemblyReference.cache
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.AssemblyInfoInputs.cache
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.AssemblyInfo.cs
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.csproj.CoreCompileInputs.cache
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets/msbuild.MultiLanguage.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.MultiLanguage.Api.props
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MultiLanguage.Api.props
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MultiLanguage.Api.props
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/scopedcss/bundle/MultiLanguage.Api.styles.css
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLan.72DA9F24.Up2Date
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/refint/MultiLanguage.Api.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.pdb
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.genruntimeconfig.cache
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/obj/Debug/net8.0/ref/MultiLanguage.Api.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.Localization.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/zeyneb/Projects/MultiLanguage/MultiLanguage.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/appsettings.Development.json
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/appsettings.json
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api.deps.json
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api.runtimeconfig.json
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Api.pdb
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.Localization.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Library.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/bin/Debug/net8.0/MultiLanguage.Library.pdb
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.csproj.AssemblyReference.cache
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.AssemblyInfoInputs.cache
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.AssemblyInfo.cs
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.csproj.CoreCompileInputs.cache
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets/msbuild.MultiLanguage.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.MultiLanguage.Api.props
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MultiLanguage.Api.props
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MultiLanguage.Api.props
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/scopedcss/bundle/MultiLanguage.Api.styles.css
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLan.72DA9F24.Up2Date
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/refint/MultiLanguage.Api.dll
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.pdb
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/MultiLanguage.Api.genruntimeconfig.cache
+/Users/zeyneb/Projects/MultiLanguage 2/MultiLanguage.Api/obj/Debug/net8.0/ref/MultiLanguage.Api.dll
